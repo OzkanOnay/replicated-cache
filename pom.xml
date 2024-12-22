@@ -5,13 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.4.0</version>
+        <groupId>org.example.replicated-cache</groupId>
+        <artifactId>bom</artifactId>
+        <version>1.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.example.replicated-cache</groupId>
     <artifactId>backend-parent</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
